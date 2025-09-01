@@ -1,0 +1,9 @@
+product_id,product_name,product_type,monthly_fee,minimum_balance,interest_rate
+CHK001,Basic Checking,Checking,10.0,100,0.001
+CHK002,Premium Checking,Checking,25.0,1000,0.005
+SAV001,Basic Savings,Savings,0.0,25,0.01
+SAV002,High Yield Savings,Savings,0.0,500,0.025
+MM001,Money Market,Money Market,15.0,2500,0.02
+CD001,12 Month CD,CD,0.0,1000,0.03
+CC001,Basic Credit Card,Credit Card,0.0,0,0.18
+CC002,Premium Credit Card,Credit Card,95.0,0,0.15
