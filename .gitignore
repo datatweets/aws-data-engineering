@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+env/
+venv/
+.venv/
+.Python
+
+# Virtual environments and environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Logs and databases
+*.log
+*.sqlite3
+celerybeat-schedule
+
+# Coverage and test artifacts
+.coverage
+htmlcov/
+
+# Terraform
+.terraform/
+terraform.tfstate*
+.terraform.lock.hcl
+
+# Common data / outputs (ignore large generated datasets)
+/data/
+
+# Temporary files
+*.tmp
+*.swp
