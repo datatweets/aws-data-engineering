@@ -38,14 +38,7 @@ yarn-error.log*
 *.sqlite3
 celerybeat-schedule
 
-# Coverage and test artifacts
-.coverage
-htmlcov/
 
-# Terraform
-.terraform/
-terraform.tfstate*
-.terraform.lock.hcl
 
 # Common data / outputs (ignore large generated datasets)
 /data/
