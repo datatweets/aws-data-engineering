@@ -46,3 +46,5 @@ celerybeat-schedule
 # Temporary files
 *.tmp
 *.swp
+downloaded_parquet/
+whiteboard/
